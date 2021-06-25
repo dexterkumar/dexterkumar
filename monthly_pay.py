@@ -1,5 +1,5 @@
-regular_hourly_pay = 46.6784
-extra_hourly_pay = 49.3064
+regular_hourly_pay = 35
+extra_hourly_pay = 45
 year  = int(12)
 
 
